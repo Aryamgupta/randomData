@@ -1,5 +1,4 @@
-export const randomData = [
-  {
+{
     uid: 1212121212,
     vehiclePic:
       "http://images4.fanpop.com/image/photos/22300000/Random-Cars-autorev-22326837-1920-1440.jpg",
@@ -78,5 +77,5 @@ export const randomData = [
     timeStamp: "2022-10-28T12:00:00.000Z",
     ocrNumber: "DL20FT9022",
     vehicleType: "car",
-  },
-];
+  }
+
